@@ -151,10 +151,6 @@ li:hover{
     color: #088BC3;
 }
 
-code:hover {
-    color:darkslateblue;
-}
-
 .main__right_item {
     margin-bottom: 40px;
 }
@@ -171,15 +167,10 @@ code:hover {
     width: 800px;
 }
 
-.main__code {
-    max-width: 400px;
-    font-family: 'Arial';
-}
-
 /* Bottom */
 .bottom__nav {
     max-width: 1197px;
-    margin: 0 auto;
+    margin: 30px auto;
     padding: 0 15px;
 }
 
@@ -196,18 +187,6 @@ code:hover {
     gap: 60px;
     justify-content: right;
     align-items: center;
-}
-
-.bottom__links_rsschool {
-    width: 100px;
-    border-radius: 16px;
-    padding: 10px 25px;
-}
-
-.bottom__links_rsschool:hover {
-    box-shadow: 0 0 3px #671AE4;
-    margin: 0 20px;
-    background-color: #141a37;
 }
 
 .bottom__links_github {
