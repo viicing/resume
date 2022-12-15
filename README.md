@@ -1,1 +1,1 @@
-https://viicing.github.io/rsschool-cv/
+https://viicing.github.io/resume/
